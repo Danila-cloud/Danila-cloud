@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'am beginner Software Engineer
 
-<!--
-**Danila-cloud/Danila-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=remix)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=tailwindCss)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap5-090909?style=for-the-badge&logo=bootstrap)
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danylo-provilskyi/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/provilsky_dn/)
